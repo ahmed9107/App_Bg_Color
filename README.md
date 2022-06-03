@@ -1,1 +1,1 @@
-# Bg_Color
+# App_Bg_Color
